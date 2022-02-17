@@ -1,0 +1,265 @@
+WEBVTT	#Elemental Media Engine(TM) 2.17.0.0
+
+00:00:00.00 --> 00:00:00.84
+
+
+00:00:00.84 --> 00:00:03.61
+[MUSIC PLAYING]
+
+00:00:03.61 --> 00:00:08.46
+
+
+00:00:08.46 --> 00:00:11.97
+Now to disturbing new data from Crowdstrike, one of the leading
+
+00:00:11.97 --> 00:00:13.41
+cybersecurity firms--
+
+00:00:13.41 --> 00:00:18.36
+its Eighth Annual Global Threat Report detected a whopping 82%
+
+00:00:18.36 --> 00:00:21.42
+spike worldwide in ransomware-linked data
+
+00:00:21.42 --> 00:00:22.20
+breaches.
+
+00:00:22.20 --> 00:00:24.96
+The report introduces potential new hacking groups
+
+00:00:24.96 --> 00:00:27.54
+and explains how attacks are getting
+
+00:00:27.54 --> 00:00:29.73
+increasingly sophisticated.
+
+00:00:29.73 --> 00:00:32.73
+Plus, it offers intricate details on the latest tactics
+
+00:00:32.73 --> 00:00:34.95
+employed by the so-called big four--
+
+00:00:34.95 --> 00:00:38.28
+Iran, China, Russia, and North Korea.
+
+00:00:38.28 --> 00:00:40.47
+Here to detail the report is Adam Meyers.
+
+00:00:40.47 --> 00:00:42.87
+He's Crowdstrike's head of intelligence.
+
+00:00:42.87 --> 00:00:44.77
+Adam, good to have you joining us.
+
+00:00:44.77 --> 00:00:46.62
+So tell us, what are the big takeaways
+
+00:00:46.62 --> 00:00:49.65
+from this year's report?
+
+00:00:49.65 --> 00:00:50.65
+Well, there was a bunch.
+
+00:00:50.65 --> 00:00:54.13
+I think the first one is that we identified that
+
+00:00:54.13 --> 00:00:57.61
+about 98 minutes from the time that a bad actor, a threat
+
+00:00:57.61 --> 00:01:00.46
+actor gets onto a system till they can move deeper
+
+00:01:00.46 --> 00:01:03.07
+into a network and get access to sensitive data
+
+00:01:03.07 --> 00:01:04.39
+and sensitive systems.
+
+00:01:04.39 --> 00:01:08.05
+That means that defenders only have about 98 minutes that they
+
+00:01:08.05 --> 00:01:13.93
+can identify and investigate and then repel or defend
+
+00:01:13.93 --> 00:01:15.24
+against that attack.
+
+00:01:15.24 --> 00:01:16.03
+That's interesting.
+
+00:01:16.03 --> 00:01:19.96
+When you think about it in terms of a more traditional crime,
+
+00:01:19.96 --> 00:01:22.06
+like a bank robbery, the idea that it only
+
+00:01:22.06 --> 00:01:24.58
+takes 98 minutes for them to get in
+
+00:01:24.58 --> 00:01:27.01
+and get out and have all that they need
+
+00:01:27.01 --> 00:01:28.90
+to perpetrate their attacks.
+
+00:01:28.90 --> 00:01:30.37
+Give us some context, though, Adam.
+
+00:01:30.37 --> 00:01:32.86
+How many ransomware attacks were there last year
+
+00:01:32.86 --> 00:01:36.18
+compared to previous years?
+
+00:01:36.18 --> 00:01:39.69
+It was up about 36%, I believe, last year
+
+00:01:39.69 --> 00:01:40.71
+over the previous year.
+
+00:01:40.71 --> 00:01:44.37
+But one of the more interesting things that we identified
+
+00:01:44.37 --> 00:01:48.36
+was that there was an 82% increase in data extortion
+
+00:01:48.36 --> 00:01:50.88
+attacks, where they not only encrypt the data,
+
+00:01:50.88 --> 00:01:54.18
+but they steal it and then hold that hostage or hold it ransom.
+
+00:01:54.18 --> 00:01:56.91
+And this is a growing trend that we've
+
+00:01:56.91 --> 00:02:00.66
+seen of weaponization of data, where victim data is
+
+00:02:00.66 --> 00:02:01.96
+being used against them.
+
+00:02:01.96 --> 00:02:03.57
+It's being used as a control lever
+
+00:02:03.57 --> 00:02:07.74
+to force them to pay higher ransoms, to pay faster.
+
+00:02:07.74 --> 00:02:10.50
+And it's being used by nation-states as well.
+
+00:02:10.50 --> 00:02:13.17
+Tell us, then, what's that staggering increase?
+
+00:02:13.17 --> 00:02:16.59
+I mean, we have heard more reports of both big companies
+
+00:02:16.59 --> 00:02:20.76
+and individuals being targeted in these types of extortion
+
+00:02:20.76 --> 00:02:22.99
+attacks.
+
+00:02:22.99 --> 00:02:24.53
+Yeah, lots of people have identified.
+
+00:02:24.53 --> 00:02:27.03
+It's a problem that's been going on for a number of years.
+
+00:02:27.03 --> 00:02:29.42
+So we encounter more and more organizations
+
+00:02:29.42 --> 00:02:32.09
+that have really robust backup solutions that
+
+00:02:32.09 --> 00:02:34.34
+enable them to recover from these ransomware attacks
+
+00:02:34.34 --> 00:02:35.49
+pretty quickly.
+
+00:02:35.49 --> 00:02:38.30
+But when the data is stolen and leaked to the internet,
+
+00:02:38.30 --> 00:02:39.74
+there's no backup solution that's
+
+00:02:39.74 --> 00:02:41.58
+going to stop that or help you there.
+
+00:02:41.58 --> 00:02:44.22
+And if you think the ransom demand is high,
+
+00:02:44.22 --> 00:02:48.86
+the legal fees, the regulatory and compliance issues
+
+00:02:48.86 --> 00:02:50.90
+that come from that data being stolen and leaked
+
+00:02:50.90 --> 00:02:53.18
+to the internet can add up very quickly
+
+00:02:53.18 --> 00:02:57.71
+and really just be massive compared to that ransom demand
+
+00:02:57.71 --> 00:02:58.86
+itself.
+
+00:02:58.86 --> 00:03:01.52
+So given all of that, given how quickly it moves,
+
+00:03:01.52 --> 00:03:08.75
+given how people seem to be paying out these extortion
+
+00:03:08.75 --> 00:03:14.21
+threats, that's led to more and more of these types of attacks
+
+00:03:14.21 --> 00:03:15.56
+being perpetrated.
+
+00:03:15.56 --> 00:03:17.48
+What can people do to stay safe?
+
+00:03:17.48 --> 00:03:20.40
+
+
+00:03:20.40 --> 00:03:23.51
+One of the things that has been a huge differentiator
+
+00:03:23.51 --> 00:03:25.64
+over the last year that I've personally witnessed
+
+00:03:25.64 --> 00:03:29.09
+is employing things like identity management and zero
+
+00:03:29.09 --> 00:03:29.60
+trust.
+
+00:03:29.60 --> 00:03:31.22
+What this really allows you to do
+
+00:03:31.22 --> 00:03:34.01
+is not just protect the system, but protect the data
+
+00:03:34.01 --> 00:03:35.97
+and protect access to the data.
+
+00:03:35.97 --> 00:03:39.65
+So if there's one thing that people would do, particularly
+
+00:03:39.65 --> 00:03:42.20
+at the enterprise level, to better defend against this,
+
+00:03:42.20 --> 00:03:43.85
+it's to employ things like zero trust,
+
+00:03:43.85 --> 00:03:45.59
+to have strong identity management,
+
+00:03:45.59 --> 00:03:48.38
+and protect the data, not just the systems.
+
+00:03:48.38 --> 00:03:52.03
+All right, Adam Meyers, thank you so much.
+
+00:03:52.03 --> 00:03:53.75
+Thank you.
