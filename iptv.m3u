@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 ch-title="TV" tvg-id="pbs.kids.us" tvg-country="US" tvg-language="English"  group-title="KIDS",PBS Kids Eastern/Central (1080p)
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 ch-title="TV" tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="News",CNA (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 ch-title="TV" tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 ch-title="TV" tvg-id="ABCNewsAustralia.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News (720p)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 ch-title="TV" tvg-id="YahooFinance.us" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="Business",Yahoo! Finance (1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
