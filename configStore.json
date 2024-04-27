@@ -17,5 +17,6 @@
 	"subTitleActive":true,
 	"subTitleActiveTran":false,
 	"usingBiliPlayer":false,
+	"proxy":"http://192.168.3.10:3000",
 	"ytPlayList":["https://www.youtube.com/playlist?list=PLwQJ7WOhLVizki7Zct_5RYF9wrHuPFYpr"]
 }
