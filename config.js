@@ -4,6 +4,10 @@ var config = {
             {
                 "url": "https://assets.msn.com/service/MSN/Feed/me?$top=20&DisableTypeSerialization=true&activityId=7E2F0C44-D701-4998-A932-A31D48A50A60&apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&contentType=video&location=21.3744|110.248&market=en-us&query=news%20video&queryType=myfeed&responseSchema=cardview&timeOut=1000&wrapodata=false",
                 "enable": 0
+            },
+            {
+                "url": "https://assets.msn.com/service/MSN/Feed/me?$top=20&DisableTypeSerialization=true&activityId=091A2B0A-F301-4422-A51F-5086F77B0BF3&apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&cm=en-us&contentType=video&it=web&ocid=watch&query=money%20video&queryType=myfeed&responseSchema=cardview",
+                "enable": 0
             }
         ],
         "cnn": [
